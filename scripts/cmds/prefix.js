@@ -12,7 +12,7 @@ module.exports = {
     category: "⚙️ Configuration",
     guide: {
       en:
-        "┌─『 Prefix Settings 』─┐\n"
+        "『 Prefix Settings 』\n"
       + "│\n"
       + "│ 🔹 {pn} <prefix>\n"
       + "│     Set prefix for this chat\n"
@@ -24,8 +24,6 @@ module.exports = {
       + "│\n"
       + "│ ♻️ {pn} reset\n"
       + "│     Reset to default prefix\n"
-      + "│\n"
-      + "└──────────────────────┘"
     }
   },
 
