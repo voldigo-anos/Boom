@@ -1,0 +1,14 @@
+{
+  "1000456789123": {
+    "balance": 5000,
+    "savings": 200,
+    "level": 1,
+    "history": [...]
+  },
+  "1000987654321": {
+    "balance": 100,
+    "savings": 0,
+    "level": 1,
+    "history": [...]
+  }
+}
