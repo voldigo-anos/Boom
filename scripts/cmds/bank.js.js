@@ -1,6 +1,6 @@
-
 const { getTime } = global.utils;
 const fonts = require('../../func/fonts.js');
+const bankData = require('../../func/bankData.js');
 
 module.exports = {
 	config: {
