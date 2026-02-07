@@ -1,4 +1,4 @@
-const fonts = require('../../func/fonts.js');
+const fonts = require('../../func/font.js');
 const axios = require('axios');
 
 module.exports = {
